@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrsyamhfis
-- 👀 I’m interested in Data Analytics
+- 📊 I’m interested in Data Analytics
 - 🌱 I’m currently learning Google BigQuery
 - 📫 Reach me here or @ LinkedIn - www.linkedin.com/in/marsyamahfis
 
