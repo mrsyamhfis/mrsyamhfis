@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsyamhfis
 - 📊 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google BigQuery
+- 🌱 I’m currently learning Python with Google Colaboratory
 - 📫 Reach me here or @ LinkedIn - www.linkedin.com/in/marsyamahfis
 
 <!---
