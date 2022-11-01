@@ -2,7 +2,7 @@
 - 📊 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning Python with Google Colaboratory
 - 📬 Reach me here or @ https://www.linkedin.com/in/marsyamahfis/
-- 💡 "Never stop learning"
+- 💡 "Learning is a treasure that will follow its owner everwhere"
 
 <!---
 mrsyamhfis/mrsyamhfis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
