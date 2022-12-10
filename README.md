@@ -2,7 +2,7 @@
 - 📊 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning Python with Google Colaboratory
 - 🧠 Refining my data-driven approaches
-- 📬 Reach me <a href="https://www.linkedin.com/in/marsyamahfis/">LinkedIn</a> 
+- 📬 Reach me @ <a href="https://www.linkedin.com/in/marsyamahfis/">LinkedIn</a> 
 - 💡 "Learning is a treasure that will follow its owner everywhere"
 
 <!---
