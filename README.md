@@ -1,6 +1,6 @@
 - 🧕🏼 Hi, I’m Marsya
-- 📊 I’m interested in Data Analytics and Machine Learning
-- 🌱 I’m currently learning Insight Generation with Google Sheets
+- 📊 I’m interested in Data and Business Analytics
+- 🌱 I’m currently learning Data Visualization and SEO tools
 - 🧠 Refining my data-driven approaches
 - 📬 Reach me @ <a href="https://www.linkedin.com/in/marsyamahfis/">LinkedIn</a> or <a href="https://www.upwork.com/freelancers/~011c8550db8a957f27">Upwork</a>
 - 💡 "Learning is a treasure that will follow its owner everywhere"
