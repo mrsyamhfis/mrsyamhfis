@@ -1,4 +1,4 @@
-- 🧕🏼 Hi, I’m Marsya
+- 🧕🏼 Hi, I’m Mars
 - 📊 I’m interested in Data and Business Analytics
 - 🌱 I’m currently learning Data Analysis and SEO tools
 - 🧠 Refining my data-driven approaches
