@@ -1,4 +1,4 @@
-- 🧕🏼 Hi, I’m Mar
+- 🧕🏼 Hi, I’m Mars
 - 📊 I’m interested in Data and Business Analytics
 - 🌱 I’m currently learning Data Analysis with SQL using Google Big Query
 - 🧠 Refining my data-driven approaches
